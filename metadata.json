@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel: Fraud & Risk Detection System",
+  "description": "A comprehensive AI-powered financial risk detection system that identifies fraudulent transactions and internal accounting anomalies using Isolation Forest and XGBoost.",
+  "requestFramePermissions": []
+}

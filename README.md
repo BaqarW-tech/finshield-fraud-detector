@@ -2,7 +2,7 @@
 
 Sentinel is a comprehensive, AI-powered financial risk detection system designed to identify fraudulent transactions and internal accounting anomalies (invoices/payroll) in real-time.
 
-## 🚀 Why This is Impressive for a CV
+## 🚀 Why This is Important for Business 
 - **Hybrid AI Model**: Combines **Unsupervised Learning** (Isolation Forest) for anomaly detection with **Supervised Learning** (XGBoost) for fraud classification.
 - **Explainable AI (XAI)**: Uses **SHAP values** to explain *why* a transaction was flagged, providing transparency for risk analysts.
 - **Business Impact**: Reduces manual review time by an estimated **80%** by prioritizing high-risk items through a composite risk scoring engine.

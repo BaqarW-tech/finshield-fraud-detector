@@ -44,7 +44,6 @@ docker-compose up --build
    ```
 
 ## 📈 Screenshots
-*(Add screenshots of the interactive dashboard here)*
 
 ---
-Developed by [Your Name]
+Developed by BaqarW-tech 
